@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "749466610740",
+    "project_id": "advancedhelloworld",
+    "storage_bucket": "advancedhelloworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749466610740:android:fa04bf682ca970cc922e61",
+        "android_client_info": {
+          "package_name": "com.asmolin.test.first_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749466610740-9snmtkk098dhuoi4rqvo7jfr2b7h6ile.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADONMorjgy0uiEll3-YUX5tsoTjGbnJYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749466610740-9snmtkk098dhuoi4rqvo7jfr2b7h6ile.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749466610740-0lg8skmdbii5crb49hhehfp16cmuurdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmolin.test.firstTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
